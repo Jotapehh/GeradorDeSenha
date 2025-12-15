@@ -62,7 +62,7 @@ pip install customtkinter pyperclip
 ```bash
 python app.py
 ```
-ou se preferir, baixe o executável [aqui](baixar)
+ou se preferir, baixe os arquivos do executável [aqui](https://github.com/Jotapehh/GeradorDeSenha/raw/refs/heads/main/Gerador%20de%20Senhas.zip)
 
 ---
 
